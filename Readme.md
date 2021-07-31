@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Auto-Filter-Bot](https://github.com/Galib792/auto-filter-bot)..__
+__This Is Just An Simple Advance Auto Filter Bot
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
