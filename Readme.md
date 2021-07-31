@@ -59,9 +59,9 @@ OR
 
 * ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
 
-* ->__Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram.dog/PyrogramStringBot)__
+* ->__Your User Session String Obtained From String
 
-* ->__Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)__
+* ->__Mongo DB URL Obtained From Mongo DB site
 
 #### PR's Are Very Welcome
 
