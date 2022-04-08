@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tips_Tik"
+                                    'Developers', url="https://t.me/MalappuramTechy"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tips_Tik"
+                                    'Developers', url="https://t.me/MalappuramTechy"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tips_Tik"
+                                    'Developers', url="https://t.me/MalappuramTechy"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/Tips_Tik'),
+        InlineKeyboardButton('Developers', url='https://t.me/MalappuramTechy'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/eo792/libraryfilter')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/Tips_Tik')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/MalappuramTechy')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
