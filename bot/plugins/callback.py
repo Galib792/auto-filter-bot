@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>📚 Check link @ Tips_Tik 📚..Found</i> <code>{leng}</code> <i>Results For Your Book Search 📚:</i> <code>{query}</code>"
+    text=f"<i>📚 Check link @MalappuramTechy 📚..Found</i> <code>{leng}</code> <i>Results For Your Book Search 📚:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
@@ -1639,10 +1639,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/M'uhammedgalib),
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Muhammedgalib),
             InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Galib792/auto-filter-bot')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/Tips_Tik)
+            InlineKeyboardButton('Support 🛠', url='https://t.me/MalappuramTechy)
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
