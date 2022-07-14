@@ -67,6 +67,9 @@ OR
 #### PR's Are Very Welcome
 
 ## Deploy
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/PWmZ9p?referralCode=-9cNJ8)
+
 You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/NiFVuTMa9vY)**</i>
